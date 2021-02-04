@@ -1,2 +1,3 @@
-# website
-Hello world auto deploy  on AWS
+# Sample Application for AWS DevOps Course
+
+#updated this file
